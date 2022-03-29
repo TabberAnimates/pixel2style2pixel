@@ -1,6 +1,11 @@
 dataset_paths = {
     'ffhq': '/path/to/ffhq/images256x256'
     'celeba_test': '/path/to/CelebAMask-HQ/test_img',
+    'celeba_train_sketch': '',
+    'celeba_test_sketch': '',
+    'celeba_train_segmentation': '',
+    'celeba_test_segmentation': '',
+    'celeba_train': '',
 }
 
 model_paths = {
